@@ -1,0 +1,10 @@
+# 忽略所有執行檔
+*.exe
+
+# 忽略打包產生的資料夾
+build/
+dist/
+
+# 忽略 Python 暫存檔
+__pycache__/
+*.pyc
